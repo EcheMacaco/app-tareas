@@ -1,7 +1,6 @@
 .tarea-contenedor{
     width: 500px;
     min-height: 65px;
-    background-color: rgb(136, 93, 40);
     margin: 5px 0;
     padding: 8px 15px 8px 20px;
     display: flex;
@@ -11,6 +10,10 @@
     border: 1px solid rgb(255, 255, 255);
     cursor: pointer;
 }
+.tarea-contenedor:active{
+  transform: scale(95%) ;
+}
+
 
 .tarea-contenedor:nth-child(4n+1){
   background-color: rgb(227, 96, 56);  
@@ -38,6 +41,7 @@
     width: 25px;
     height: 25px;
     margin: 5px;
+    color: rgb(88, 49, 1);
 }
 
 .tarea-contenedor.completada {

@@ -27,3 +27,6 @@
     color: white;
     text-transform: capitalize;
 }
+.tarea-boton:active {
+    transform: scale(95% );
+}
