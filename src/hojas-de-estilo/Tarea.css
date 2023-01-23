@@ -16,16 +16,16 @@
 
 
 .tarea-contenedor:nth-child(4n+1){
-  background-color: rgb(227, 96, 56);  
+  background-color: #FF9A00;  
 }
 .tarea-contenedor:nth-child(4n+2){
-    background-color: rgb(227, 139, 56);  
+    background-color: #fc9e10;  
   }
   .tarea-contenedor:nth-child(4n+3){
-  background-color: rgb(227, 167, 56);  
+  background-color: #fea41d; 
 }
 .tarea-contenedor:nth-child(4n+4){
-    background-color: rgb(227, 193, 56);  
+    background-color: #feaa2c;  
   }
 
 .tarea-texto {
@@ -41,10 +41,10 @@
     width: 25px;
     height: 25px;
     margin: 5px;
-    color: rgb(88, 49, 1);
+    color: #ffffff;
 }
 
 .tarea-contenedor.completada {
-    background-color: darkgray;
+    background-color: #feaa2caa;
     opacity: 50%;
 }

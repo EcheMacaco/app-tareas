@@ -8,13 +8,13 @@
 html,
 body {
   color: rgb(1, 1, 1);
-  background-color: rgb(186, 157, 121);
+  background-color: #3EC1D3;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   margin-top: 40px;
 }
 
 h1 {
-  color: rgb(136, 93, 40);
+  color: #FF165D;
   font-size: 25px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   margin: 20px 0;
@@ -27,13 +27,12 @@ h1 {
   align-items: center;
 }
 
-/* logo o imagen */
-/* lista de tareas */
+
 
 .tareas-lista-principal {
   width: 600px;
   min-height: 500px;
-  background-color: azure;
+  background-color: #F6F7D7;
   padding: 25px;
   margin: 10px;
   justify-content: center;
